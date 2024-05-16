@@ -1,1 +1,2 @@
-Hi there <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZuYTJya3V1dW1ka3JjYWtxeWtwZ2h1eDB0cjY4azN3bXZzb3pxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zl6Bn3ZJMqpNDT3sXS/giphy.gif" width="100px">, I am Qobiljon Xayrullayev
+Programming Languages <br>
+<img src="https://camo.githubusercontent.com/bb64b34d04a01cfa79658e2704085740d88e209c21905d0f5b55ebc87a83aa3a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d4646443433423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d626c7565">

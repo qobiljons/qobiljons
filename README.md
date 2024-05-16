@@ -9,6 +9,6 @@ Backend Development
 <br>
 <br>
 <img src="https://camo.githubusercontent.com/e0aa4b3bb9af7d3610dd65656751f3940ef645e1e3e5ff727abecec2accfb31b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d506f73746d616e266c6f676f436f6c6f723d7768697465">
-<img src="[https://images.ctfassets.net/e5382hct74si/6Dqa9T8XOOC95yJb0z9jew/ce4932b8d23046f260510e24c1ec39e1/thumbnail.png](https://lab.uberspace.de/_images/flask.png)" width="100px">
+<img src="https://danizavtz.com.br/content/images/2023/05/flask-horizontal.webp" width="100px">
 <img src="">
 

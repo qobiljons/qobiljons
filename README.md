@@ -1,24 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Technologies</title>
-</head>
-<body>
-    <h2>Programming Languages</h2>
-    <img src="https://camo.githubusercontent.com/bb64b34d04a01cfa79658e2704085740d88e209c21905d0f5b55ebc87a83aa3a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d4646443433423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d626c7565" alt="Python">
-    <img src="https://camo.githubusercontent.com/77a94341662845d3740986b84d8219c0fd4a0a9e4af8e5411c24cec0faee2129/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145" alt="JavaScript">
-    <img src="https://camo.githubusercontent.com/4a58a52bd9dbcee885c52ad22f75bd9e8b19c8f8fecd52753e02430d59b95990/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432532422d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d43253242266c6f676f436f6c6f723d253233413842394546" alt="C++">
-    
-    <h2>Backend Development</h2>
-    <img src="https://camo.githubusercontent.com/e0aa4b3bb9af7d3610dd65656751f3940ef645e1e3e5ff727abecec2accfb31b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d506f73746d616e266c6f676f436f6c6f723d7768697465" alt="Postman">
-    <img src="https://danizavtz.com.br/content/images/2023/05/flask-horizontal.webp" width="90px" alt="Flask">
-    <img src="https://camo.githubusercontent.com/639d2f4c43a4a5354e23e2a37d35185e0b5f509e5d24760f39bc6c6633fb6a2e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446a616e676f2d3039324532303f7374796c653d666f722d7468652d6261646765266c6f676f3d646a616e676f266c6f676f436f6c6f723d253233304634353243" alt="Django">
+# Technologies
 
-    <h2>Databases</h2>
-    <img src="https://camo.githubusercontent.com/6854ba9612c2cb025e7c65445787d93f6436d4691303601506e0bc28be2ae9b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3331363139323f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465" alt="PostgreSQL">
-    <img src="https://camo.githubusercontent.com/67af6cf5e8af353a43cf43e00edb4d6472f83ec1b8b87079cf2981b4db1d6ea1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53716c6974652d3231363431313f7374796c653d666f722d7468652d6261646765266c6f676f3d73716c697465266c6f676f436f6c6f723d626c7565" alt="SQLite">
-    <img src="https://camo.githubusercontent.com/54f87b4392f4b318c9e2f1566c586a3473e9450a519e2bd24f00e71aead1061a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7973514c2d3434373941313f7374796c653d666f722d7468652d6261646765266c6f676f3d4d7973514c266c6f676f436f6c6f723d7768697465" alt="MySQL">
-</body>
-</html>
+## Programming Languages
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=A8B9CC)
+
+## Backend Development
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Flask](https://danizavtz.com.br/content/images/2023/05/flask-horizontal.webp)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+## Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
